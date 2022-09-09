@@ -4,9 +4,8 @@
 <h3 align="center">AWS Certified Solutions Architect Associate | Neo4j Graph Data Science Certified</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKrFnW0ocggFGIqr2vRITOCXAZJt8enkSSQ&usqp=CAU">
 
-- 🔭 I’m currently working on my final year **End to End Data Science Project**
 
-- 🌱 I’m currently a final year student studying **Msc Data Science & AI**
+- 🌱 I’m currently a Data Science Intern @ **Legal Marque**
 
 - 👯 I’m looking to collaborate on **ML/DL/DS Projects**
 
