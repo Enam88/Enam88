@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKrFnW0ocggFGIqr2vRITOCXAZJt8enkSSQ&usqp=CAU">
 
 
-- 🌱 I’m currently a Data Science Intern @ **Snef Lab**
+- 🌱 I’m  a Data Enthusiast
 
 - 👯 I’m looking to collaborate on **ML/DL/DS Projects**
 
