@@ -7,7 +7,7 @@
 
 - 🌱 I’m  a Data Enthusiast
 
-- 👯 I’m looking to collaborate on **ML/DL/DS Projects**
+- 👯 I’m looking to collaborate on **ML/AI/DS Projects**
 
 - ⚡ Fun fact **I am very positive and funny**
 
